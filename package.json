@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Training project",
+  "main": "git-test/index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxdan/git-test.git"
+  },
+  "author": "mxd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxdan/git-test/issues"
+  },
+  "homepage": "https://github.com/mxdan/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
